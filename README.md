@@ -1,7 +1,7 @@
 # tw-airline-plugin
 *a taskwarrior plugin for vim-airline*
 
-Status: fantasy
+Status: pre-alpha (fantasy)
 
 This plugin is designed to show taskwarrior status info in a vim-airline status bar. The raw-airline-config is "lifted" from the most excellent vim-taskwarrior plugin, and using vim-taskwarrior with airline gives a nice, informative status bar, BUT that's only when viewing a vim-taskwarrior report.
 
